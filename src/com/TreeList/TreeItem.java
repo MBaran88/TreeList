@@ -21,5 +21,8 @@ public class TreeItem {
     public Object getData(){
         return this.data;
     }
+    /*public Object setData(){
+        this.data = data;
+    }*/
 }
 
